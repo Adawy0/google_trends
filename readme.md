@@ -42,3 +42,7 @@ Project contains three apis
 ``` http://127.0.0.1:8000/apis/interest-by-region/?kw=food&kw=eat```
 3. for get data
 ```http://127.0.0.1:8000/apis/read-data```
+
+## Point Not complete
+1. run app in docker
+2. draw interest by region data chars
