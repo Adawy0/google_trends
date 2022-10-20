@@ -31,8 +31,18 @@ database name google_trends
 ## Source Env variables
 Run this command before each run project
 ```bash
-echo "source project.env
+echo source project.env
 ```
+## Can run app using the following approach
+1. Run App
+```bash
+./manage.py runserver
+```
+2. Run docker compose file (not ready yet)
+```bash
+docker-compose up
+```
+
 ## Summary 
 Project that get data from google trends apis then draw this data using amchars
 Project contains three apis
