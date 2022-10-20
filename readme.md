@@ -36,9 +36,9 @@ echo "source project.env
 ## Summary 
 Project that get data from google trends apis then draw this data using amchars
 Project contains three apis
-1- for get historical interest data 
+1. for get historical interest data 
 ``` http://127.0.0.1:8000/apis/historical-interest/?kw=egypt```
-2- for get interest by region data
+2. for get interest by region data
 ``` http://127.0.0.1:8000/apis/interest-by-region/?kw=food&kw=eat```
-3- for get data
+3. for get data
 ```http://127.0.0.1:8000/apis/read-data```
